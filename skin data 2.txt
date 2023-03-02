@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV0rQpf.jpg",
+      "title": "BANBAN FAMILY 1",
+        "text_Content": "The BanBan Family is a popular Korean YouTube channel that features a family of four: father Ban Hyun Woo, mother Bae Soo Jung, and their two children, Ban Yoon Chan and Ban Jin Chan. The family has gained a huge following, with over 12 million subscribers as of 2023, making them one of the most popular family channels on the platform. In this essay, we will explore the BanBan Family's history, content, and impact on society.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV0rbQ2.jpg",
+      "title": "BANBAN FAMILY 2",
+        "text_Content": "The BanBan Family began its YouTube journey in 2017 when Ban Hyun Woo, the father, decided to start a channel to document the family's daily life. At the time, he was working as a marketing executive and wanted to create a space where he could spend time with his family and share their experiences with the world. He named the channel "Banzz" and started uploading videos that showed the family cooking, playing games, and doing other activities together.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV0rtI4.jpg",
+      "title": "BANBAN FAMILY 3",
+        "text_Content": "The channel's popularity began to grow, and soon the family was receiving requests from viewers to share more of their daily life. They responded by creating a new channel called "BanBanTV," which focused more on the family's daily routines, such as getting ready for school and work, doing household chores, and spending time together as a family. The channel quickly gained a following, and the family decided to make YouTube their full-time career.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV0rDhl.jpg",
+      "title": "BANBAN FAMILY 4",
+        "text_Content": "The BanBan Family's content is known for its wholesome and heartwarming nature. They focus on family-oriented content, and their videos usually feature the family doing everyday activities such as cooking, cleaning, and spending time together. The family also loves to travel and often posts videos of their trips, both within Korea and abroad.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV04nEP.jpg",
+      "title": "BANBAN FAMILY 5",
+        "text_Content": "One of the family's most popular video series is "Daddy Goes to Market," where Ban Hyun Woo takes his son Ban Yoon Chan to the local market to buy ingredients for their family meals. The videos are not only entertaining but also educational, as they teach viewers about Korean food and culture. Another popular series is "Mommy's Cooking Class," where Bae Soo Jung teaches viewers how to make various Korean dishes.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV04qQV.jpg",
+      "title": "BANBAN FAMILY 6",
+        "text_Content": "In addition to their daily life videos, the BanBan Family also creates vlogs and challenges that showcase their family dynamic. For example, in one video, they play the "Chubby Bunny" challenge, where they have to stuff as many marshmallows into their mouths as possible. The family's love for each other is evident in all their videos, and viewers enjoy watching them interact and have fun together.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HV04CCB.jpg",
+      "title": "BANBAN FAMILY 7",
+        "text_Content": "In addition to their daily life videos, the BanBan Family also creates vlogs and challenges that showcase their family dynamic. For example, in one video, they play the "Chubby Bunny" challenge, where they have to stuff as many marshmallows into their mouths as possible. The family's love for each other is evident in all their videos, and viewers enjoy watching them interact and have fun together.",
+        "text_Content_1": ""
 
 
 
